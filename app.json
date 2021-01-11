@@ -15,7 +15,7 @@
       "fallbackToCacheTimeout": 1000
     },
     "assetBundlePatterns": [
-      "assets/*"
+      "**/*"
     ],
     "ios": {
       "appStoreUrl": "https://apps.apple.com/app/id1084209377",
@@ -29,22 +29,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "userInterfaceStyle": "automatic",
-    "packagerOpts": {
-      "config": "metro.config.js",
-      "sourceExts": [
-        "expo.ts",
-        "expo.tsx",
-        "expo.js",
-        "expo.jsx",
-        "ts",
-        "tsx",
-        "js",
-        "jsx",
-        "json",
-        "wasm",
-        "svg"
-      ]
-    }
+    "userInterfaceStyle": "automatic"
   }
 }
