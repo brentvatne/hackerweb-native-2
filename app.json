@@ -2,7 +2,7 @@
   "expo": {
     "name": "HackerWebby",
     "slug": "hackerweb-native-2",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "A read-only Hacker News client.",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1084209377",
       "supportsTablet": false,
       "bundleIdentifier": "xyz.bront.hackerweb",
-      "buildNumber": "10"
+      "buildNumber": "11"
     },
     "platforms": [
       "ios"
